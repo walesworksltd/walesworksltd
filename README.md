@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello, I'm WalesWorksLtd, also the owner of DeLevo Group, a technological company.
+I make software for Windows, and they are very functional and useful.
+You can contact me at walesworksltd@protonmail.com
 
 <!--
 **walesworksltd/walesworksltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
