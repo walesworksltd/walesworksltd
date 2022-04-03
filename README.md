@@ -1,5 +1,5 @@
 Hello, I'm WalesWorksLtd, also the owner of DeLevo Group, a technological company.
-I make software for Windows.
+I make software for Windows, and I'm pretty sure they work.
 You can contact me at walesworksltd@protonmail.com
 
 <!--
