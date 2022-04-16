@@ -1,4 +1,4 @@
 Hello, I'm WalesWorksLtd (he/him), also the owner of DeLevo Group, a technological company.
 I make software for Windows, and I'm pretty sure they work nicely.
 You can contact me with the following means:
-[Email](mailto:walesmemer@gmail.com), [Discord](https://discord.gg/SGaUuBUax9)
+walesmemer@gmail.com, [Discord](https://discord.gg/SGaUuBUax9)
